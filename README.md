@@ -1,5 +1,3 @@
-Sure! Here is the revised README including a References section:
-
 # Sentiment Analysis with Hidden Markov Model (HMM)
 
 Welcome to the Sentiment Analysis with Hidden Markov Model (HMM) project! This project implements an HMM algorithm to perform sentiment analysis, following a structured approach to build and train the model using the Baum-Welch algorithm and the Viterbi algorithm.
