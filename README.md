@@ -61,9 +61,9 @@ This project successfully implemented an HMM for sentiment analysis, demonstrati
 ## Contributors
 
 We would like to thank the following contributors for their efforts in this project:
-- **[Contributor 1]**: 
-- **[Contributor 2]**:
-- **[Contributor 3]**: 
+- **[Tone Chihiro]**: 
+- **[Hoang Nam]**:
+- **[Uzairu Abubakar]**: 
 
 ## References
 
