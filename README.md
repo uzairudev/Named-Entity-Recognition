@@ -32,8 +32,8 @@ The dataset used in this project is the Named Entity Recognition (NER) Dataset f
 ## Project Structure
 
 The project is organized as follows:
-- **MLF_project_HMM.ipynb**: Jupyter notebook containing the code implementation and instructions.
-- **data/dataset.csv**: The dataset file used for training and evaluation.
+- **HMM_Project.ipynb**: Jupyter notebook containing the code implementation and instructions.
+- **data\NER dataset.csv**: The dataset file used for training and evaluation.
 
 ## Tasks
 
@@ -60,7 +60,6 @@ This project successfully implemented an HMM for sentiment analysis, demonstrati
 
 ## Contributors
 
-We would like to thank the following contributors for their efforts in this project:
 - **[Tone Chihiro]** 
 - **[Hoang Nam]**
 - **[Uzairu Abubakar]**
