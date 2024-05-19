@@ -11,10 +11,9 @@ Welcome to the Sentiment Analysis with Hidden Markov Model (HMM) project! This p
    - [Task 2: Viterbi Algorithm](#task-2-viterbi-algorithm)
    - [Task 3: Formulating HMM](#task-3-formulating-hmm)
    - [Task 4: Baum-Welch Algorithm](#task-4-baum-welch-algorithm)
-5. [Further Work](#further-work)
-6. [Conclusion](#conclusion)
-7. [Contributors](#contributors)
-8. [References](#references)
+5. [Conclusion](#conclusion)
+6. [Contributors](#contributors)
+7. [References](#references)
 
 ## Introduction
 
@@ -54,13 +53,6 @@ In this task, we created a hypothetical scenario to demonstrate the use of an HM
 
 We implemented the Baum-Welch algorithm to estimate the HMM parameters. This involved completing functions to compute forward and backward probabilities and iteratively refining the transition and emission matrices. The algorithm was tested with two different examples to validate its performance.
 
-## Further Work
-
-To continue this work, we suggest the following:
-1. **Increase Sample Size**: Use a larger dataset to obtain more accurate results.
-2. **Longitudinal Study**: Conduct a longitudinal study to understand variable changes over time.
-3. **Include Additional Variables**: Consider other factors such as lifestyle or genetic factors to improve the model.
-4. **Conduct Qualitative Research**: Use qualitative methods to gain deeper insights into the data.
 
 ## Conclusion
 
@@ -69,16 +61,14 @@ This project successfully implemented an HMM for sentiment analysis, demonstrati
 ## Contributors
 
 We would like to thank the following contributors for their efforts in this project:
-- **[Your Name]**: Project Lead and primary coder.
-- **[Contributor 1]**: Data preprocessing and model validation.
-- **[Contributor 2]**: Algorithm implementation and testing.
-- **[Contributor 3]**: Documentation and report preparation.
+- **[Contributor 1]**: 
+- **[Contributor 2]**:
+- **[Contributor 3]**: 
 
 ## References
 
 - [Kaggle NER Dataset](https://www.kaggle.com/datasets/debasisdotcom/name-entity-recognition-ner-dataset)
 - [hmmlearn documentation](https://hmmlearn.readthedocs.io/en/latest/)
-- Jurafsky, D., & Martin, J. H. (2009). *Speech and Language Processing*. Pearson Prentice Hall.
 - Rabiner, L. R. (1989). A tutorial on Hidden Markov Models and selected applications in speech recognition. *Proceedings of the IEEE*, 77(2), 257-286.
 - Wikipedia contributors. (2023). Hidden Markov model. In *Wikipedia, The Free Encyclopedia*. Retrieved from [https://en.wikipedia.org/wiki/Hidden_Markov_model](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 
