@@ -61,9 +61,9 @@ This project successfully implemented an HMM for sentiment analysis, demonstrati
 ## Contributors
 
 We would like to thank the following contributors for their efforts in this project:
-- **[Tone Chihiro]**: 
-- **[Hoang Nam]**:
-- **[Uzairu Abubakar]**: 
+- **[Tone Chihiro]** 
+- **[Hoang Nam]**
+- **[Uzairu Abubakar]**
 
 ## References
 
@@ -71,5 +71,3 @@ We would like to thank the following contributors for their efforts in this proj
 - [hmmlearn documentation](https://hmmlearn.readthedocs.io/en/latest/)
 - Rabiner, L. R. (1989). A tutorial on Hidden Markov Models and selected applications in speech recognition. *Proceedings of the IEEE*, 77(2), 257-286.
 - Wikipedia contributors. (2023). Hidden Markov model. In *Wikipedia, The Free Encyclopedia*. Retrieved from [https://en.wikipedia.org/wiki/Hidden_Markov_model](https://en.wikipedia.org/wiki/Hidden_Markov_model)
-
-Thank you for visiting our project! We hope you find this work informative and useful. If you have any questions or suggestions, please feel free to reach out.
